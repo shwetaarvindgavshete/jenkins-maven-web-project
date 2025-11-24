@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - CJC Classes</title>
+    <title>Contact - adhyayan Classes</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -17,8 +17,8 @@
     </header>
     <section>
         <h2>Get in Touch</h2>
-        <p>Email: cjc_classes@example.com</p>
-        <p>Instagram: @cjc_10_02</p>
+        <p>Email: adhyayan_classes@example.com</p>
+        <p>Instagram: @adhyayan_10_02</p>
     </section>
 </body>
 </html>
