@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - CJC Classes</title>
+    <title>Home - adhyayan Classes</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1 style="color:yellow;">Welcome to CJC Classes Karvenagar Pune</h1>
+        <h1 style="color:yellow;">Welcome to adhyayan Classes Karvenagar Pune</h1>
         <nav>
             <a href="index.jsp">Home</a>
             <a href="about.jsp">About</a>
